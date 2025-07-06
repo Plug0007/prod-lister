@@ -22,18 +22,6 @@ Scrape product listings from **WooCommerce**, **Shopify**, or any **custom produ
 pip install -r requirements.txt
 ```
 
-`requirements.txt`
-
-```
-beautifulsoup4
-pandas
-requests
-lxml
-openpyxl
-xlsxwriter
-streamlit
-```
-
 *Python ≥ 3.7*
 
 ---
@@ -162,15 +150,4 @@ python product_lister.py generic \
 
 ---
 
-## 👨‍💻 Author
-
-**Raelyaan** – Student, builder, creator of Cre8treds & JOJ (Jar of Joy)
-
-GitHub → [https://github.com/raelyaan](https://github.com/raelyaan)
-
----
-
-## 📄 License
-
-MIT License – Free to use, modify, and distribute.
 
